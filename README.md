@@ -13,11 +13,9 @@ Cricbuzz is one of the most popular mobile apps for cricket news and scores in I
 </p>
 
 
-
-
 ## Features
 
-- Working Login/ Sighup. (only in frontend)
+- Working Login/Sign up. (only in front)
 - Working Dropdowns.
 
 
@@ -46,14 +44,8 @@ Cricbuzz is one of the most popular mobile apps for cricket news and scores in I
 ![Login](https://github.com/mpatel0220/Cricbuzz_Demo/blob/main/cricbuzz/Ranking.png)
 ![Screenshot 2022-12-19 154219](https://user-images.githubusercontent.com/103638279/208412092-7891ea39-e9b5-4bdb-b470-a037000281ac.png)
 
-
-
-
 -Login Page
 ![Payment](https://github.com/mpatel0220/Cricbuzz_Demo/blob/main/cricbuzz/Signup%20page.png)
 
-
 -Login Page 1
 ![Account](https://github.com/mpatel0220/Cricbuzz_Demo/blob/main/cricbuzz/Signup%20page.png)
-
-
